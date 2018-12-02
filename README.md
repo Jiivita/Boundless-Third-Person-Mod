@@ -2,6 +2,8 @@
 
 Provided “As is” 
 
+Usage: To enable zooming the camera in and out in third person for a better view.
+
 The script will need an update with each new release of Boundless (testing servers not supported), and I will do my best to do so in a timely manner.
 
 Extract the " Boundless Third Person Mod.exe " And " Third_Person_Mod.ini " to the same location and run the .exe AFTER launching Boundless.
