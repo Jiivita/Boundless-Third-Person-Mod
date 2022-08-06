@@ -2,7 +2,7 @@
 
 Provided “As is” 
 
-Update: Now supports being updated through the "MemAddress" and "JoyX MemAddress" inputs in the f4 menue.  Request new Addresses from Jiivita on the Boundless forums or DIY with the help of this video: 
+Update: Now supports being updated through the "MemAddress" and "JoyX MemAddress" input boxes in the f4 menue.  Request new Addresses from Jiivita on the Boundless forums or DIY with the help of this video: 
 "How to Update the 3rd Person Mod"
 https://youtu.be/v0qZT9Los7E
 
